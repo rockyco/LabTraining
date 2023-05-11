@@ -4,3 +4,6 @@
 [submodule "Train03_Synthesizable RTL/basic_verilog"]
 	path = Train03_Synthesizable RTL/basic_verilog
 	url = https://github.com/pConst/basic_verilog.git
+[submodule "Train09_The basic of High-Level Synthesis/High-Level-Synthesis-Flow-on-Zynq-using-Vivado-HLS"]
+	path = Train09_The basic of High-Level Synthesis/High-Level-Synthesis-Flow-on-Zynq-using-Vivado-HLS
+	url = https://github.com/louisliuwei/High-Level-Synthesis-Flow-on-Zynq-using-Vivado-HLS.git
