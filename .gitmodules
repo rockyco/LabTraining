@@ -1,0 +1,6 @@
+[submodule "Train11_AXI Protocol/verilog-axi"]
+	path = Train11_AXI Protocol/verilog-axi
+	url = https://github.com/alexforencich/verilog-axi.git
+[submodule "Train03_Synthesizable RTL/basic_verilog"]
+	path = Train03_Synthesizable RTL/basic_verilog
+	url = https://github.com/pConst/basic_verilog.git
